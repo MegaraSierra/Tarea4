@@ -60,8 +60,6 @@ const App: React.FC = () => {
     }
   };
 
-// ...
-
 const checkGameCompletion = () => {
 
   if (matchedPairs.length === 5) { 
